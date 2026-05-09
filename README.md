@@ -40,7 +40,7 @@ This script assumes that Vivado is installed at `/tools/Xilinx/2025.1`.
 
 ### Create Block Design
 
-First, obtain the script and create the Block Design in Vivado.
+First, obtain the script and create the Block Design in Vivado. If the board information for the Arty A7-100T is not installed in Vivado, it may take some time to download and install the board files.
 
 ```
 source /tools/Xilinx/2025.1/Vivado/settings64.sh
