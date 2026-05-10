@@ -49,7 +49,7 @@ cd arty-a7-mbv32/vivado
 vivado -source arty-a7-mbv32.tcl
 ```
 
-Executing the script will launch Vivado and create the Block Design. At this point, the Block Design cannot be built.
+Executing the script will launch Vivado and create the Block Design. At this point, the generated Block Design is not ready for bitstream generation yet.
 
 ### MIG Configuration
 
