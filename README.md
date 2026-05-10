@@ -7,6 +7,12 @@ The generated Block Design is intended for running an RTOS.
 
 <img title="" src="images/BD-1.avif">
 
+## Related Repository
+
+The Zephyr RTOS environment designed for this Block Design is available in the following repository:
+
+- https://github.com/hkato-sssl/arty-a7-mbv32-zephyr.git
+
 ## Environment
 
 - Ubuntu Desktop 24.04
